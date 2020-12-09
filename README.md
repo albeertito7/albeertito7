@@ -2,8 +2,8 @@
 
 <h1 align="left">Hi there 👋</h1>
 <p align="left">
-<a href="https://github.com/albeertito7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Albert Pérez Datsira" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/albert-pérez-datsira" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Albert Pérez Datsira" height="20" width="20" /></a>
+<a href="https://github.com/albeertito7" target="_blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Albert Pérez Datsira" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/albert-pérez-datsira" target="_blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Albert Pérez Datsira" height="20" width="20" /></a>
 </p>
 
 <p>I'm Albert. I'm a Full Stack Developer who is passionate about learning new things every day, creating technology to elevate people, and building community.</p>
