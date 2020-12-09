@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 	<img src="https://github-profile-trophy.vercel.app/?username=albeertito7&row=1&column=6&count_private=true&include_all_commits=true&" alt="Github Trophies"/>
 </p>
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=albeertito7&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" alt="Github Stats"/>
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeertito7&layout=compact&theme=algolia" alt="Github Top Languages" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=albeertito7&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" alt="Github Stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeertito7&layout=compact&theme=algolia" alt="Github Top Languages" />
 </p>
 
