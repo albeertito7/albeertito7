@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-	<img src="https://github-profile-trophy.vercel.app/?username=albeertito7&row=2&column=3&count_private=true&include_all_commits=true&" alt="Github Trophies"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=albeertito7&row=1&column=6&count_private=true&include_all_commits=true&" alt="Github Trophies"/>
+</p>
+<p align="left">
 	<img src="https://github-readme-stats.vercel.app/api?username=albeertito7&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" alt="Github Stats"/>
 </p>
 
