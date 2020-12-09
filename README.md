@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/albeertito7/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/albeertito7/github-profile-trophy"><h4>🏆 Github Profile Trophy</h4></a>
 
 <p align="left">
-	<img src="https://github-profile-trophy.vercel.app/?username=albeertito7&row=1&column=6&count_private=true&include_all_commits=true&" alt="Github Trophies"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=albeertito7&row=1&column=7&count_private=true&include_all_commits=true&" alt="Github Trophies"/>
 </p>
 <p align="left">
 	<img height="180" src="https://github-readme-stats.vercel.app/api?username=albeertito7&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" alt="Github Stats"/>
