@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="left">
 	<img src=https://github-readme-stats.vercel.app/api?username=albeertito7&show_icons=true&theme=gotham alt=Albert />
 </p>
 
