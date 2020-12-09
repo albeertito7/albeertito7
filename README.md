@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
 	<img src="https://github-readme-stats.vercel.app/api?username=albeertito7&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" alt="Github Stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=albeertito7&repo=deno-websocket&theme=algolia" />
 </p>
 
