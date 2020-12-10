@@ -14,7 +14,7 @@
 	<li>Web part: https://github.com/albeertito7/ReciclameWeb</li>
 </ul>
 
-👯 I’m looking to collaborate on web projects (Angular, Nodejs, etc) or any kind of mobile device app using Flutter, Native-Script, Swift ...
+👯 I’m looking to collaborate on web projects (Angular, Nodejs...) or any kind of mobile device app using Flutter, NativeScript, Swift...
 
 🌱 I’m currently learning machine learning and data analysis :) 
 
