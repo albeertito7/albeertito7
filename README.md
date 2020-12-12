@@ -20,6 +20,13 @@
 
 📫 How to reach me: albertperezdatsira@gmail.com
 
+<!--<h4>🏆 Github Profile Trophy</h4>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=albeertito7&column=7&count_private=true&include_all_commits=true&theme=onedark" alt="Github Trophies"/></p>-->
+<h4>🏆  Github Profile Stats</h4>
+<p align="left">
+	<img height="180" src="https://github-readme-stats.vercel.app/api?username=albeertito7&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Github Stats"/>
+	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeertito7&layout=compact&theme=dark" alt="Github Top Languages" />
+</p>
 <!--
 **albeertito7/albeertito7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,14 +41,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--<h4>🏆 Github Profile Trophy</h4>
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=albeertito7&column=7&count_private=true&include_all_commits=true&theme=onedark" alt="Github Trophies"/></p>-->
-
-<h4>🏆  Github Profile Stats</h4>
-<p align="left">
-	<img height="180" src="https://github-readme-stats.vercel.app/api?username=albeertito7&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Github Stats"/>
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeertito7&layout=compact&theme=dark" alt="Github Top Languages" />
-</p>
-
