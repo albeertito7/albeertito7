@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!--<h4>🏆 Github Profile Trophy</h4>
 
-<!--<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=albeertito7&column=7&count_private=true&include_all_commits=true&theme=onedark" alt="Github Trophies"/></p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=albeertito7&column=7&count_private=true&include_all_commits=true&theme=onedark" alt="Github Trophies"/></p>-->
 
 <h4>🏆 Github Profile Stats</h4>
 <p align="left">
