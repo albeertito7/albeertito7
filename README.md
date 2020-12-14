@@ -23,7 +23,7 @@
 🏆 Github Profile Stats
 <p align="left">
 	<img height="180" src="https://github-readme-stats.vercel.app/api?username=albeertito7&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Github Stats"/>
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeertito7&layout=compact&langs_count=10&theme=dark" alt="Github Top Languages" />
+	<img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeertito7&layout=compact&langs_count=10&theme=dark" alt="Github Top Languages" />
 </p>
 
 <!--<h4>🏆 Github Profile Trophy</h4>
