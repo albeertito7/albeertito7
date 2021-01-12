@@ -11,12 +11,12 @@
 <p>🔭 I’m currently working at CompsaOnline S.L. and also developing in collaboration a software project; a mobile app and a support website with a private administration:</p>
 <ul style="list-style-type:square">
 	<li>Flutter mobile app: https://github.com/danielb05/reciclame</li>
-	<li>Web part: https://github.com/albeertito7/ReciclameWeb</li>
+	<li>Nodejs Web part: https://github.com/albeertito7/ReciclameWeb</li>
 </ul>
 
 👯 I’m looking to collaborate on web projects (Angular, Nodejs...) or any kind of mobile device app.
 
-🌱 I’m currently learning machine learning and data analysis :) 
+🌱 I’m currently learning machine learning, reinforcement learning, and data analysis :) 
 
 📫 How to reach me: albertperezdatsira@gmail.com
 
