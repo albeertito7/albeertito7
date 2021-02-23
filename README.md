@@ -8,20 +8,20 @@
 </br>
 <p>I'm Albert. I'm a Full Stack Developer who is passionate about learning new things every day, creating technology to elevate people, and building community.</p>
 
-<p>🔭  I’m currently working at CompsaOnline S.L. and also developing in collaboration a software project; a mobile app and a promotional website called <a href="https://reciclame-udl.herokuapp.com" target="_blank">reciclame-udl.herokuapp.com</a> with a private administration.</p>
-<p>To get more information visit the following repositories:</p>
+<p>🔭 I’m currently working at CompsaOnline S.L. and also developing in collaboration a software project; a mobile app and a promotional website called <a href="https://reciclame-udl.herokuapp.com" target="_blank">reciclame-udl.herokuapp.com</a> with a private administration.</p>
+<p>🤔 To get more information visit the following repositories:</p>
 <ul style="list-style-type:square">
 	<li>Flutter mobile app: https://github.com/danielb05/reciclame</li>
-	<li>Nodejs Web part: https://github.com/albeertito7/ReciclameWeb</li>
+	<li>Nodejs web part: https://github.com/albeertito7/ReciclameWeb</li>
 </ul>
 
-👯  I’m looking to collaborate on web projects (Angular, Nodejs...) or any kind of mobile device app.
+👯 I’m looking to collaborate on web projects (Angular, Nodejs...) or any kind of mobile device app.
 
-🌱  I’m currently learning machine learning, reinforcement learning, and data analysis :) 
+🌱 I’m currently learning machine learning, reinforcement learning, and data analysis :) 
 
-📫  How to reach me: albertperezdatsira@gmail.com
+📫 How to reach me: albertperezdatsira@gmail.com
 
-🏆  Github Profile Stats
+🏆 Github Profile Stats
 <p align="left">
 	<img height="180" src="https://github-readme-stats.vercel.app/api?username=albeertito7&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Github Stats"/>
 	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeertito7&hide=php&layout=compact&langs_count=7&theme=dark" alt="Github Top Languages" />
