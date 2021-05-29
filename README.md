@@ -8,13 +8,6 @@
 </br>
 <p>I'm Albert. I'm a Full Stack Developer who is passionate about learning new things every day, creating technology to elevate people, and building community.</p>
 
-<p>🔭 I’m currently working at CompsaOnline S.L. and also developing in collaboration a software project; a mobile app and a promotional website called <a href="https://reciclame-udl.herokuapp.com" target="_blank">reciclame-udl.herokuapp.com</a> with a private administration.</p>
-<p>🤔 To get more information visit the following repositories:</p>
-<ul style="list-style-type:square">
-	<li>Flutter mobile app: https://github.com/danielb05/reciclame</li>
-	<li>Nodejs web part: https://github.com/albeertito7/ReciclameWeb</li>
-</ul>
-
 👯 I’m looking to collaborate on web projects (Angular, Nodejs...) or any kind of mobile device app.
 
 🌱 I’m currently learning machine learning, reinforcement learning, and data analysis :) 
