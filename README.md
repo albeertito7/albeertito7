@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi there 👋</h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/albert-pérez-datsira" target="_blank"><img style="margin-right: 10px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Albert Pérez Datsira" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/albert-pérez-datsira" target="_blank" style="margin-right: 5px !important;"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Albert Pérez Datsira" height="40" width="40" /></a>
 <a href="mailto=albertperezdatsira@gmail.com" target="_blank"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Albert Pérez Datsira" height="40" width="40" /></a>
 </p>
 
