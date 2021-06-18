@@ -6,7 +6,7 @@
 <a href="mailto:albertperezdatsira@gmail.com" target="_blank"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Albert Pérez Datsira" height="40" width="40" /></a>
 </p>
 
-<p>I'm Albert. I'm a Full Stack Developer who is passionate about learning new things every day, creating technology to elevate people, and building community.</p>
+<p>I'm Albert. I'm a Full Stack Engineer passionate about learning new things every day, creating technology to elevate people, and building community.</p>
 
 👯 I’m looking to collaborate on web projects (Angular, Nodejs...) or data-science studies.
 
