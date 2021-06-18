@@ -8,7 +8,7 @@
 
 <p>I'm Albert. I'm a Full Stack Developer who is passionate about learning new things every day, creating technology to elevate people, and building community.</p>
 
-👯 I’m looking to collaborate on web projects (Angular, Nodejs...) or any kind of mobile device app.
+👯 I’m looking to collaborate on web projects (Angular, Nodejs...) or data-science studies.
 
 🌱 I’m currently learning machine learning, reinforcement learning, and data analysis :) 
 
