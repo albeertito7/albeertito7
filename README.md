@@ -23,7 +23,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&borderColor=%23000000&qColor=%23ffffff)
 
-![](https://komarev.com/ghpvc/?username=albeertito7&label=Viewers)
+![](https://komarev.com/ghpvc/?username=albeertito7&label=Views)
 
 <!--<h4>🏆 Github Profile Trophy</h4>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=albeertito7&column=7&count_private=true&include_all_commits=true&theme=onedark" alt="Github Trophies"/></p>-->
