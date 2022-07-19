@@ -10,7 +10,7 @@
 
 👯 I’m looking to collaborate on web projects (Angular, Nodejs, WordPress...) or data-science studies.
 
-🌱 I’m currently learning machine learning, reinforcement learning, and data analysis :) 
+🌱 I’m currently comprehending machine learning, reinforcement learning, and data analysis :) 
 
 📫 How to reach me: albertperezdatsira@gmail.com
 
