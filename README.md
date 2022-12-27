@@ -14,11 +14,11 @@
 🏆 Github Profile Stats
 
 <p align="left">
-	<img height="180" src="https://github-readme-stats.vercel.app/api?username=albeertito7&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Github Stats"/>
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeertito7&hide=php&layout=compact&langs_count=7&theme=dark" alt="Github Top Languages" />
+	<img height="180" src="https://github-readme-stats.vercel.app/api?username=albeertito7&count_private=true&include_all_commits=true&show_icons=true&theme=light&border_color=d8dee4" alt="Github Stats"/>
+	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albeertito7&hide=php&layout=compact&langs_count=7&theme=light&border_color=d8dee4" alt="Github Top Languages" />
 </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&borderColor=%23000000&qColor=%23ffffff)
+<!--![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&borderColor=%23000000&qColor=%23ffffff)-->
 
 <!--![](https://komarev.com/ghpvc/?username=albeertito7&label=Views)-->
 
