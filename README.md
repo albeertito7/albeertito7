@@ -3,7 +3,7 @@
 
 <p>I'm Albert. I'm a Full Stack Engineer passionate about learning new things every day, creating technology to elevate people,<br/>and building community.</p>
 
-👯 I’m looking to collaborate on web projects (Angular, Nodejs, WordPress...) or data-science studies.
+👯 I’m looking to collaborate on web projects or data-science studies.
 
 📫 How to reach me: albertperezdatsira@gmail.com
 
