@@ -28,7 +28,7 @@ const albert = {
 	},
 	devOps: ['Heroku', 'Docker'],
 	serverless: ['Deno Deploy', 'AWS Lambda', 'Cloudflare Worker'],
-	databases: ['PostgreSQL', 'MySQL','MariaDB', 'Microsoft SQL Server', 'MongoDB', 'Realtime Firebase', 'Cloud Firestore'],
+	databases: ['PostgreSQL', 'MySQL','MariaDB', 'Microsoft SQL Server', 'MongoDB', 'Firebase'],
 	misc: ['Git', 'CI/CD'],
 	testing:['Unit Test','End-To-End']
 }
