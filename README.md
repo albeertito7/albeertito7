@@ -12,7 +12,7 @@ const albert = {
 	code: ['Javascript', 'Typescript', 'PHP', 'Python', 'Java', 'C#'],
 	approaches: ['DDD', 'TDD', 'Agile', 'Waterfall'],
 	standards: ['HTML5', 'CSS3', 'PSR2', 'PEP8'],
-	frameworks: {
+	tech: {
 		frontEnd: {
 		    js: ['React.js', 'Vue.js', 'Javascript Vanilla'],
 		    css: ['Bootstrap', 'Tailwind CSS', 'Pure CSS', 'Bulma']
