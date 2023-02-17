@@ -7,6 +7,34 @@
 
 📫 How to reach me: albertperezdatsira@gmail.com
 
+```js
+const albert = {
+	code: ['Javascript', 'Typescript', 'PHP', 'Python', 'Java', 'C#'],
+	approaches: ['DDD', 'TDD', 'Agile', 'Waterfall'],
+	standards: ['HTML5', 'CSS3', 'PSR2', 'PEP8'],
+	frameworks: {
+		frontEnd: {
+		    js: ['React.js', 'Vue.js', 'Javascript Vanilla'],
+		    css: ['Bootstrap', 'Tailwind CSS', 'Pure CSS', 'Bulma']
+		},
+		backEnd: {
+			js: ['NodeJs', 'NextJs'],
+			php: ['Laravel', 'CodeIgniter','WordPress', 'Joomla'],
+			python: ['Flask', 'Django'],
+			ts:['NestJS'],
+			ruby: ['Jekyll']
+		},
+		template_engines: ['JSX', 'EJS', 'Blade', 'Twig']
+	},
+	devOps: ['Heroku', 'Docker'],
+	serverless: ['Deno Deploy', 'AWS Lambda', 'Cloudflare Worker'],
+	databases: ['PostgreSQL', 'MySQL','MariaDB', 'Microsoft SQL Server', 'MongoDB', 'Realtime Firebase', 'Cloud Firestore'],
+	misc: ['Git', 'CI/CD'],
+	testing:['Unit Test','End-To-End']
+}
+```
+
+
 🏆 Github Profile Stats
 
 <p align="left">
