@@ -11,7 +11,7 @@
 const albert = {
 	code: ['Javascript', 'Typescript', 'PHP', 'Python', 'Java', 'C#'],
 	approaches: ['DDD', 'TDD', 'Agile', 'Waterfall'],
-	standards: ['HTML5', 'CSS3', 'PSR2', 'PEP8'],
+	standards: ['HTML5', 'CSS3', 'PSR2', 'PSR12', 'PEP8'],
 	tech: {
 		frontEnd: {
 		    js: ['React.js', 'Vue.js', 'Javascript Vanilla'],
