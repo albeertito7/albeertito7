@@ -31,7 +31,7 @@ const albert = {
 	databases: ['PostgreSQL', 'MySQL','MariaDB', 'Microsoft SQL Server', 'MongoDB', 'Firebase'],
 	misc: ['Git', 'CI/CD'],
 	testing:['Unit Test','End-To-End']
-}
+};
 ```
 
 
