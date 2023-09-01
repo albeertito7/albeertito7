@@ -14,13 +14,13 @@ const albert = {
 	standards: ['HTML5', 'CSS3', 'PSR2', 'PSR12', 'PEP8'],
 	tech: {
 		frontEnd: {
-		    js: ['React.js', 'Vue.js', 'Javascript Vanilla'],
+		    js: ['React.js', 'Gatsby', 'Vue.js', 'Javascript Vanilla'],
 		    css: ['Bootstrap', 'Tailwind CSS', 'Pure CSS', 'Bulma']
 		},
 		backEnd: {
 			js: ['NodeJs', 'NextJs'],
-			php: ['Laravel', 'CodeIgniter','WordPress', 'Joomla', 'Prestashop'],
-			python: ['Flask', 'Django'],
+			php: ['Laravel', 'Inertia', 'CodeIgniter','WordPress', 'Joomla', 'Prestashop'],
+			python: ['Flask', 'FastApi', 'Django'],
 			ts:['NestJS'],
 			ruby: ['Jekyll']
 		},
