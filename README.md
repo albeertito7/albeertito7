@@ -42,7 +42,7 @@ const albert = {
 			unit: ['JUnit', 'pytest'],
 			integration: ['Postman']
 		},
-		crossFuncitonal: ['Cucumber']
+		crossFunctional: ['Cucumber']
 	}
 };
 ```
