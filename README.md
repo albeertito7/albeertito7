@@ -10,27 +10,40 @@
 ```js
 const albert = {
 	code: ['Javascript', 'Typescript', 'PHP', 'Python', 'Java', 'C#'],
-	approaches: ['DDD', 'TDD', 'Agile', 'Waterfall'],
 	standards: ['HTML5', 'CSS3', 'PSR2', 'PSR12', 'PEP8'],
+	approaches: ['DDD', 'TDD', 'Agile', 'Waterfall', 'Extreme Programming (XP)'],
+	methodologies: ['Scrum', 'Kanban', 'PRINCE2'],
+	managementTools: ['Jira', 'Trello', 'ProjectLibre'],
 	tech: {
 		frontEnd: {
-		    js: ['React.js', 'Gatsby', 'Vue.js', 'Javascript Vanilla'],
+		    js: ['React.js', 'AngularJS', 'Gatsby', 'Javascript Vanilla'],
 		    css: ['Bootstrap', 'Tailwind CSS', 'Pure CSS', 'Bulma']
 		},
 		backEnd: {
-			js: ['NodeJs', 'NextJs'],
-			php: ['Laravel', 'Inertia', 'CodeIgniter','WordPress', 'Joomla', 'Prestashop'],
+			js: ['NextJs', 'ExpressJs', 'KoaJs'],
+			php: ['Laravel', 'Inertia', 'CodeIgniter', 'WordPress', 'Prestashop'],
 			python: ['Flask', 'FastApi', 'Django'],
-			ts:['NestJS'],
-			ruby: ['Jekyll']
+			ts: ['NestJS'],
+			java: ['Spring Boot']
 		},
-		template_engines: ['JSX', 'EJS', 'Blade', 'Twig']
+		template_engines: ['JSX', 'EJS', 'Blade', 'Twig', 'Smarty']
 	},
 	devOps: ['Heroku', 'Docker'],
 	serverless: ['Deno Deploy', 'AWS Lambda', 'Cloudflare Worker'],
-	databases: ['PostgreSQL', 'MySQL','MariaDB', 'Microsoft SQL Server', 'MongoDB', 'Firebase'],
+	databases: ['PostgreSQL', 'MySQL', 'MariaDB', 'Microsoft SQL Server', 'MongoDB', 'Firebase'],
 	misc: ['Git', 'CI/CD'],
-	testing:['Unit Test','End-To-End']
+	testing: {
+		frontEnd: {
+			unit: ['Jest'],
+			component: ['Cypress'],
+			e2e: ['Cypress', 'Puppeteer']
+		},
+		backEnd: {
+			unit: ['JUnit', 'pytest'],
+			integration: ['Postman']
+		},
+		crossFuncitonal: ['Cucumber']
+	}
 };
 ```
 
